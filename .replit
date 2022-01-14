@@ -1,4 +1,4 @@
-entrypoint = "node node /home/runner/LovelyQuixoticEquation/nodejs-random-color-generator-jan-2022/index.js"
+entrypoint = "index.js"
 
 [interpreter]
 command = [
